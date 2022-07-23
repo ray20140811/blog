@@ -31,5 +31,5 @@ $ psql
 # \q
 ```
 
-# 參考資料:[How to Install PostgreSQL with pgAdmin4 on Linux Mint 20](https://www.tecmint.com/install-postgresql-with-pgadmin4-on-linux-mint/)
+### 參考資料:[How to Install PostgreSQL with pgAdmin4 on Linux Mint 20](https://www.tecmint.com/install-postgresql-with-pgadmin4-on-linux-mint/)
 
